@@ -1,0 +1,2 @@
+# Projeto_luz_temperatura
+Este artigo descreve um sistema de controle de temperatura e iluminação por sensor de movimento controlado via smartphone. O sensor de temperatura irá acionar o ventilador/exaustor e uma luz quando for detectada algum movimento no local.  Será possível programar pelo smartphone qual será a temperatura que irá acionar esses dispositivos e qual temperatura que irá desligá-los.
